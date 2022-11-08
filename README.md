@@ -10,6 +10,8 @@ The volume of ``free" data on the internet has been key to the current success o
 
 `Note：` Consider the challenge of the task above. You can choose one of the topics or other closely related topics in which you are interested.
 
+`Code:` You may follow the following as an example
+  - [Unlearnable Examples](https://github.com/HanxunH/Unlearnable-Examples)
 
 [1] Kashmir Hill. The secretive company that might end privacy as we know it. In Ethics of Data and Analytics. 2020.\
 [2] Huang, H., Ma, X., Erfani, S. M., Bailey, J., & Wang, Y. Unlearnable Examples: Making Personal Data Unexploitable. ICLR 2021.\
